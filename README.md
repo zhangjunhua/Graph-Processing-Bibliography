@@ -6,8 +6,7 @@ http://www.vldb.org/pvldb/vol9.html
 
 
 2016-3-16
-Real-Time Multi-Criteria Social Graph Partitioning A Game Theoretic Approach
-
+Armenatzoglou N, Pham H, Ntranos V, et al. Real-time multi-criteria social graph partitioning: A game theoretic approach[C]//Proceedings of the 2015 ACM SIGMOD International Conference on Management of Data. ACM, 2015: 1617-1628. [pdf](http://infolab.usc.edu/DocsDemos/SIGMOD15_RMGP.pdf)
 2016-3-23
 Random-walk Domination in Large Graphs
 
