@@ -4,11 +4,11 @@
 http://www.vldb.org/pvldb/vol9.html
 
 
+Armenatzoglou N, Pham H, Ntranos V, et al. Real-time multi-criteria social graph partitioning: A game theoretic approach[C]//Proceedings of the 2015 ACM SIGMOD International Conference on Management of Data. ACM, 2015: 1617-1628.
+[pdf](http://infolab.usc.edu/DocsDemos/SIGMOD15_RMGP.pdf)
 
-2016-3-16
-Armenatzoglou N, Pham H, Ntranos V, et al. Real-time multi-criteria social graph partitioning: A game theoretic approach[C]//Proceedings of the 2015 ACM SIGMOD International Conference on Management of Data. ACM, 2015: 1617-1628. [pdf](http://infolab.usc.edu/DocsDemos/SIGMOD15_RMGP.pdf)
-2016-3-23
-Random-walk Domination in Large Graphs
+Li R H, Yu J X, Huang X, et al. Random-walk domination in large graphs[C]//Data Engineering (ICDE), 2014 IEEE 30th International Conference on. IEEE, 2014: 736-747.
+[pdf](http://www.szudatalab.com/wp-content/uploads/2016/04/rwdom.pdf)
 
 2016-3-30
 Querying Big Graphs within Bounded Resources
