@@ -69,3 +69,9 @@ Fan W, Wang X, Wu Y, et al. Association rules with graph patterns[J]. Proceeding
 Elseidy M, Abdelhamid E, Skiadopoulos S, et al. Grami: Frequent subgraph and pattern mining in a single large graph[J]. Proceedings of the VLDB Endowment, 2014, 7(7): 517-528.
 [pdf](http://repository.kaust.edu.sa/kaust/bitstream/10754/334536/1/Article-Proceeding-GRAMI_Freq-2014.pdf)
 
+Fan W, Hu C. Big Graph Analyses: From Queries to Dependencies and Association Rules[J]. Data Science and Engineering, 1-20.
+[pdf](http://download.springer.com/static/pdf/660/art%253A10.1007%252Fs41019-016-0025-x.pdf?originUrl=http%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs41019-016-0025-x&token2=exp=1491379307~acl=%2Fstatic%2Fpdf%2F660%2Fart%25253A10.1007%25252Fs41019-016-0025-x.pdf%3ForiginUrl%3Dhttp%253A%252F%252Flink.springer.com%252Farticle%252F10.1007%252Fs41019-016-0025-x*~hmac=9761ee589ffcdfa3452cdcefeaf478786f25c1ba5b541bbdc6b6c5b6542aa526)
+
+Liu Y, Lu J, Yang H, et al. Towards maximum independent sets on massive graphs[J]. Proceedings of the VLDB Endowment, 2015, 8(13): 2122-2133.
+[pdf](http://www.vldb.org/pvldb/vol8/p2122-lu.pdf)
+
