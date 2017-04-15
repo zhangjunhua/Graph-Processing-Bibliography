@@ -75,3 +75,8 @@ Fan W, Hu C. Big Graph Analyses: From Queries to Dependencies and Association Ru
 Liu Y, Lu J, Yang H, et al. Towards maximum independent sets on massive graphs[J]. Proceedings of the VLDB Endowment, 2015, 8(13): 2122-2133.
 [pdf](http://www.vldb.org/pvldb/vol8/p2122-lu.pdf)
 
+Henzinger, Monika Rauch, Thomas A. Henzinger, and Peter W. Kopke. "Computing simulations on finite and infinite graphs." Foundations of Computer Science, 1995. Proceedings., 36th Annual Symposium on. IEEE, 1995.
+[pdf](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=492576)
+
+Fan, Wenfei, et al. "Distributed graph simulation: Impossibility and possibility." Proceedings of the VLDB Endowment 7.12 (2014): 1083-1094.
+[pdf](http://www.vldb.org/pvldb/vol7/p1083-fan.pdf)
