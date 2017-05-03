@@ -80,3 +80,9 @@ Henzinger, Monika Rauch, Thomas A. Henzinger, and Peter W. Kopke. "Computing sim
 
 Fan, Wenfei, et al. "Distributed graph simulation: Impossibility and possibility." Proceedings of the VLDB Endowment 7.12 (2014): 1083-1094.
 [pdf](http://www.vldb.org/pvldb/vol7/p1083-fan.pdf)
+
+Liu, Yang, et al. "Mapreduce-based pattern finding algorithm applied in motif detection for prescription compatibility network." International Workshop on Advanced Parallel Processing Technologies. Springer Berlin Heidelberg, 2009.
+[pdf](http://download.springer.com/static/pdf/823/chp%253A10.1007%252F978-3-642-03644-6_27.pdf?originUrl=http%3A%2F%2Flink.springer.com%2Fchapter%2F10.1007%2F978-3-642-03644-6_27&token2=exp=1493829504~acl=%2Fstatic%2Fpdf%2F823%2Fchp%25253A10.1007%25252F978-3-642-03644-6_27.pdf%3ForiginUrl%3Dhttp%253A%252F%252Flink.springer.com%252Fchapter%252F10.1007%252F978-3-642-03644-6_27*~hmac=c06280fa7292bd50f99098122e1e533f4b4b5cd89090e360d45ce9e19dfaa1fc)
+
+Wu, Bin, and YunLong Bai. "An efficient distributed subgraph mining algorithm in extreme large graphs." Artificial Intelligence and Computational Intelligence (2010): 107-115.
+[pdf]N/A
