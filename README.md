@@ -86,3 +86,12 @@ Liu, Yang, et al. "Mapreduce-based pattern finding algorithm applied in motif de
 
 Wu, Bin, and YunLong Bai. "An efficient distributed subgraph mining algorithm in extreme large graphs." Artificial Intelligence and Computational Intelligence (2010): 107-115.
 [pdf]N/A
+
+Meng J, Tu Y. Flexible and feasible support measures for mining frequent patterns in large labeled graphs[C]//Proceedings of the 2017 ACM International Conference on Management of Data. ACM, 2017: 391-402.
+[pdf](http://delivery.acm.org/10.1145/3040000/3035936/p391-meng.pdf?ip=222.175.103.102&id=3035936&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2EBA9BBD89F2E1EC6A%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=963958161&CFTOKEN=76204301&__acm__=1500866702_3715a48d933a5a094742cbeb19f4a927)
+
+Fan W, Hu C, Tian C. Incremental graph computations: Doable and undoable[C]//Proceedings of the 2017 ACM International Conference on Management of Data. ACM, 2017: 155-169.
+[pdf](http://delivery.acm.org/10.1145/3040000/3035944/p155-fan.pdf?ip=222.175.103.102&id=3035944&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2EBA9BBD89F2E1EC6A%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=963958161&CFTOKEN=76204301&__acm__=1500867087_17f0452b6962c33398c353251b424317)
+
+Wenfei Fan, Jingbo Xu, Yinghui Wu, Wenyuan Yu, Jiaxin Jiang, Zeyu Zheng, Bohan Zhang, Yang Cao, Chao Tian: Parallelizing Sequential Graph Computations. SIGMOD Conference 2017: 495-510
+[pdf](http://delivery.acm.org/10.1145/3040000/3035942/p495-fan.pdf?ip=222.175.103.102&id=3035942&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2EBA9BBD89F2E1EC6A%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=963958161&CFTOKEN=76204301&__acm__=1500867516_216bdbc354966cde2f6b12adc2f7b397)
